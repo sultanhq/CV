@@ -32,7 +32,7 @@ For a complete list, see my [Github](https://github.com/sultanhq).
 ### Problem Solver
 I am able to understand problems and have the skill of being able to envisage designs or systems in my head; Which I then relish the challenge of putting that vision into practice to create a solution.
 
-A good example of this was creating series of tools for my previous employer. It allowed them to see where the business was struggling with invoice payment times and stock losses. The tools reduces losses by 90%, and also halved the amount of unpaid invoices.
+A good example of this was creating a series of tools for my previous employer. It allowed them to see where the business was struggling with invoice payment times and stock losses. The tools reduced losses by 90%, and also halved the amount of unpaid invoices.
 
 ### Fast Learner
 For my one week project [(Twitter Forest)](https://github.com/sultanhq/twitter_forest)  at Makers Academy, our team found that our in-browser project required live communication with another service. I found that WebSockets was required, which I then learnt and implemented into production in under 2 days.
