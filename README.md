@@ -1,6 +1,6 @@
 ## Robert Andrew Adams
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/robert-adams-5bb7bb68/) | [Blogsite](http://sultan-hq.com.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/robert-adams-5bb7bb68/) | [Blogsite](http://sultan-hq.com)
 
 I am a full stack Ruby developer with a passion for understanding how things work from the ground up.
 
@@ -18,7 +18,7 @@ I am looking for a job where I am constantly challenged, encouraged to improve a
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [The Cube](https://github.com/sultanhq/makers_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Python, Django, Javascript, WebSockets |
+| [The Cube](https://github.com/sultanhq/makers_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Python, Django, Javascript, WebSockets, Slack and OpenWeatherMap APIs |
 | [Twitter Forest](https://github.com/sultanhq/twitter_forest) | A forest that visually represents Twitter #'s as forest objects | Node.js, Javascript, HAML, WebSockets, Twitter Streaming API|
 | [RANDBnb](https://github.com/sultanhq/RAND-MakersBNB) | An AirBNB Clone | Ruby, PostgreSQL, Heroku|
 | [Chitter](https://github.com/sultanhq/chitter-challenge)| A Twitter Clone | Ruby, PostgreSQL, Heroku|
@@ -30,14 +30,15 @@ For a complete list, see my [Github](https://github.com/sultanhq).
 
 
 ### Problem Solver
-I am able to understand problems and have the skill of being able to envisage designs or systems in my head; Which I then relish the challenge of putting that vision into practice to create a solution. A good example of this is creating series of macros & reports for my previous employer to see where the business was struggling with invoice payment times and stock losses, the end result, halved the amount of unpaid invoices.
+I am able to understand problems and have the skill of being able to envisage designs or systems in my head; Which I then relish the challenge of putting that vision into practice to create a solution.
 
+A good example of this was creating series of tools for my previous employer. It allowed them to see where the business was struggling with invoice payment times and stock losses. The tools reduces losses by 90%, and also halved the amount of unpaid invoices.
 
 ### Fast Learner
 For my one week project [(Twitter Forest)](https://github.com/sultanhq/twitter_forest)  at Makers Academy, our team found that our in-browser project required live communication with another service. I found that WebSockets was required, which I then learnt and implemented into production in under 2 days.
 
 ### Not scared to try
-I am not afraid to try something to see if it works, most people that know me call me a tinkerer. This skill has helped me when I was developing a new frame for a quadcopter, the 3d printer I had was not able to print at the precision I required, so I looked at the source code and tweaked it to allow it to produce result at twice the factory resolution.
+I am not afraid to try something to see if it works, most people that know me call me a tinkerer. This skill has helped me when I was developing a new frame for a quadcopter, the 3d printer I had was not able to print at the precision I required, so I looked at the source code and tweaked it to allow it to produce prints at twice the factory resolution.
 
 ### Communication
 Some of my spare time is taken up as a Scout leader; in that role, communication is key for the success in getting the message across. This skill also passes over to teaching which I have found very useful when pair programming.
@@ -60,9 +61,9 @@ During the development of my Final project at Makers Academy, which my team work
 - Object Orientated Programming
 - SOLID Principles
 - Software Craftsmanship
-- Ruby, Javascript, Python, WebSockets, Bootstrap, JQuery, PostgreSQL, AJAX.
+- Ruby, Javascript, Python, WebSockets, Bootstrap, jQuery, PostgreSQL, AJAX.
 - Rails, Node.js and Django Frameworks
-- RSpec, Jasmine Testing systems.
+- RSpec, Jasmine testing systems.
 
 #### UKIT Training UK LTD (2008)
 
