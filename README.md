@@ -18,7 +18,7 @@ I am looking for a job where I am constantly challenged, encouraged to improve a
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [The Cube](https://github.com/sultanhq/makers_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Python, Django, Javascript, WebSockets, Slack and OpenWeatherMap APIs |
+| [The Cube](https://github.com/sultanhq/maker_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Python, Django, Javascript, WebSockets, Slack and OpenWeatherMap APIs |
 | [Twitter Forest](https://github.com/sultanhq/twitter_forest) | A forest that visually represents Twitter #'s as forest objects | Node.js, Javascript, HAML, WebSockets, Twitter Streaming API|
 | [RANDBnb](https://github.com/sultanhq/RAND-MakersBNB) | An AirBNB Clone | Ruby, PostgreSQL, Heroku|
 | [Chitter](https://github.com/sultanhq/chitter-challenge)| A Twitter Clone | Ruby, PostgreSQL, Heroku|
@@ -46,7 +46,7 @@ Some of my spare time is taken up as a Scout leader; in that role, communication
 ### Enthusiasm
 
 During the development of my Final project at Makers Academy, which my team worked on: - an interactive illuminated cube to display information. Thanks to my constant inquisitiveness and constant striving to answer the question 'What can we do better', we was able to produce an MVP within 3 days and managed to implement all the features we originally set out to do along with other exciting features.
-[Github: The Cube](https://github.com/sultanhq/makers_cube)
+[Github: The Cube](https://github.com/sultanhq/maker_cube)
 
 ### Additional Skills
 
