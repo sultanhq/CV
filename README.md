@@ -26,7 +26,7 @@ I am looking for a job where I am constantly challenged, encouraged to improve a
 
 For a complete list, see my [Github](https://github.com/sultanhq).
 
-## Skills:
+## Skills:
 
 
 ### Problem Solver
