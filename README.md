@@ -81,7 +81,7 @@ During the development of my Final project at Makers Academy, which my team work
 * Data Analysis
 * Invoice Approval
 * Procedure Creation
-* Supplier Liasons
+* Supplier Liaisons
 
 **Go Ahead London** (2008 - 2013)  
 *Storesperson*
