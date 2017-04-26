@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/robert-adams-5bb7bb68/) | [Blogsite](http://sultan-hq.com)
 
-I am a Junior web developer with a passion for understanding how things work from the ground up.
+I am a Junior developer with a passion for understanding how things work from the ground up.
 
 I am an independent learner and problem-solver who is knowledgeful of coding principles and has experience in using various hardware and software technologies, web frameworks and testing systems.
 
