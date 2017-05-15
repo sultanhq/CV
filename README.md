@@ -64,6 +64,7 @@ During the development of my Final project at Makers Academy, which my team work
 - Ruby, Javascript, Python, WebSockets, Bootstrap, jQuery, PostgreSQL, AJAX.
 - Rails, Node.js and Django Frameworks
 - RSpec, Jasmine testing systems.
+- Cloud Foundry & Pivotal Web Services
 
 #### UKIT Training UK LTD (2008)
 
