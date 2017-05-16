@@ -100,7 +100,7 @@ During the development of my Final project at Makers Academy, which my team work
 ## Hobbies & Interests
 
   * Rock climbing
-  * Internet of things tech
+  * Disruptive tech such as Blockchain and Internet of things
   * Single board microcontrollers such as Arduino's, Raspberry Pi's, ESP8266's etc...
   * Quadcopters & autonomous drones
   * 3D Modelling and Printing
