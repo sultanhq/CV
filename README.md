@@ -84,10 +84,10 @@ During the development of my Final project at Makers Academy, which my team work
 * Scala / Play
 * React
 * API’s:
- * Facebook Messenger
- * Google API-AI
- * Google DataStore
- * Saltedge (Secure Banking)
+  * Facebook Messenger
+  * Google API-AI
+  * Google DataStore
+  * Saltedge (Secure Banking)
 * Jenkins
 * Kubernetes
 * Kibana Logstash
