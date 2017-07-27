@@ -76,6 +76,27 @@ During the development of my Final project at Makers Academy, which my team work
 - City and Guilds in Electronics and Printer Maintenance (half diploma)
 
 ## Work Experience
+### Development Experience
+**Mespo Uk** (June 2017 - Date)  
+*Full Stack Software Engineer*
+
+**Technologies Used:**  
+* Scala / Play
+* React
+* API’s:
+ * Facebook Messenger
+ * Google API-AI
+ * Google DataStore
+ * Saltedge (Secure Banking)
+* Jenkins
+* Kubernetes
+* Kibana Logstash
+* AWS
+
+
+### Prior Experience
+**Go Ahead London** (2013 - 2016)  
+*Assistant Buyer*
 
 
 **Go Ahead London** (2013 - 2016)  
