@@ -67,6 +67,11 @@ During the development of my Final project at Makers Academy, which my team work
 - RSpec, Jasmine testing systems.
 - Cloud Foundry & Pivotal Web Services
 
+
+
+
+
+
 #### UKIT Training UK LTD (2008)
 
 - Microsoft Certified Network Professional
