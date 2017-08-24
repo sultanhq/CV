@@ -16,14 +16,14 @@ I am looking for a job where I am constantly challenged, encouraged to improve a
 ## Projects
 
 
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [CamperMapper](https://github.com/sultanhq/campermapper) | CamperMapper is a web app which shows sites where users can stay overnight in a campervan for under £10. | React, Node.Js, Firebase, Google Maps Api, Javascript, CSS, Heroku, Jest. |
-| [The Cube](https://github.com/sultanhq/the_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Node.Js, Javascript, Phaser.io, WebSockets, Slack and OpenWeatherMap APIs |
-| [Twitter Forest](https://github.com/sultanhq/twitter_forest) | A forest that visually represents Twitter #'s as forest objects | Node.js, Javascript, HAML, WebSockets, Twitter Streaming API|
-| [RANDBnb](https://github.com/sultanhq/RAND-MakersBNB) | An simple AirBNB Clone | Ruby, PostgreSQL, Heroku|
-| [Chitter](https://github.com/sultanhq/chitter-challenge)| A basic Twitter Clone | Ruby, PostgreSQL, Heroku|
-|[Rock-Paper-Scissors-Lizard-Spock](https://github.com/sultanhq/rps-challenge) | An extended version of the old game Rock Paper Scissors| Ruby, CSS, Heroku |
+| Project   | Description | Technologies | Website
+|---        |---         |---           |---
+| [CamperMapper](https://github.com/sultanhq/campermapper) | CamperMapper is a web app which shows sites where users can stay overnight in a campervan for under £10. | React, Node.Js, Firebase, Google Maps Api, Javascript, CSS, Heroku, Jest. | [Link to App](https://campermapper.herokuapp.com) (Hosted on Heroku) |
+| [The Cube](https://github.com/sultanhq/the_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Node.Js, Javascript, Phaser.io, WebSockets, Slack and OpenWeatherMap APIs | None at present |
+| [Twitter Forest](https://github.com/sultanhq/twitter_forest) | A forest that visually represents Twitter #'s as forest objects | Node.js, Javascript, HAML, WebSockets, Twitter Streaming API| None at present |
+| [RANDBnb](https://github.com/sultanhq/RAND-MakersBNB) | An simple AirBNB Clone | Ruby, PostgreSQL, Heroku|[Link to App](https://rand-bnb.herokuapp.com) (Hosted on Heroku) |
+| [Chitter](https://github.com/sultanhq/chitter-challenge)| A basic Twitter Clone | Ruby, PostgreSQL, Heroku|[Link to App](https://sultans-chitter.herokuapp.com) (Hosted on Heroku) |
+|[Rock-Paper-Scissors-Lizard-Spock](https://github.com/sultanhq/rps-challenge) | An extended version of the old game Rock Paper Scissors| Ruby, CSS, Heroku | [Link to App](https://rock-paper-scissors-liz-spock.herokuapp.com) (Hosted on Heroku) |
 
 For a complete list, see my [Github](https://github.com/sultanhq).
 
@@ -66,11 +66,6 @@ During the development of my Final project at Makers Academy, which my team work
 - Rails, Node.js and Django Frameworks
 - RSpec, Jasmine testing systems.
 - Cloud Foundry & Pivotal Web Services
-
-
-
-
-
 
 #### UKIT Training UK LTD (2008)
 
