@@ -1,6 +1,6 @@
 ## Robert Andrew Adams
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/robert-adams-5bb7bb68/) | [Blogsite](http://sultan-hq.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/robert-adams-5bb7bb68/)
 
 I am a developer with a passion for understanding how things work from the ground up.
 
